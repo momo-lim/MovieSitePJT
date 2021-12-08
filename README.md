@@ -42,6 +42,16 @@
 
 ![image-20211126082519034](README.assets/image-20211126082519034.png)
 
+
+
+<img src="README.assets/image-20211209010331675.png" alt="image-20211209010331675" style="zoom:46%;" />
+
+<img src="README.assets/image-20211209010405606.png" alt="image-20211209010405606" style="zoom:46%;" />
+
+<img src="README.assets/image-20211209010432547.png" alt="image-20211209010432547" style="zoom:46%;" />
+
+
+
 ## 리뷰게시판
 
 ![image-20211126082524387](README.assets/image-20211126082524387.png)
